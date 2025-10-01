@@ -4,7 +4,7 @@ policy_assignments_to_add: []
 policy_assignments_to_remove:
 # To remove the private DNS zones policy for private endpoints
   - Enable-DDoS-VNET
-  - 94de2ad3-e0c1-4caf-ad78-5d47bbc83d3d
+  - Deploy-Private-DNS-Zones
 policy_definitions_to_add: []
 policy_definitions_to_remove: []
 policy_set_definitions_to_add: []
